@@ -2,7 +2,7 @@
 
 Este projeto é uma API desenvolvida com **Spring Boot** para cadastro de clientes, com busca automática de endereço a partir do CEP.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Cadastro de clientes
 - Consulta de endereço via CEP
@@ -10,7 +10,7 @@ Este projeto é uma API desenvolvida com **Spring Boot** para cadastro de client
 - Persistência de dados em banco H2
 - API REST funcional
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Java 17+
 - Spring Boot
@@ -19,7 +19,7 @@ Este projeto é uma API desenvolvida com **Spring Boot** para cadastro de client
 - H2 Database
 - Maven
 
-## 📌 Endpoint principal
+## Endpoint principal
 
 ### Criar cliente
 
